@@ -1,0 +1,3 @@
+[submodule "zjuthesis"]
+	path = zjuthesis
+	url = git@github.com:TheNetAdmin/zjuthesis.git
